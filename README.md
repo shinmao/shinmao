@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hung-Mao Chen
+* Education: Master degree of Computer Science, George Mason University, VA, United States
 
-<!--
-**shinmao/shinmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Related links
+* [YouTube channel](https://www.youtube.com/channel/UC9jW5yQu-TsS2NYP0Ya2gIg)
+* [Blog](http://blog.1pwnch.com/)
+* [LinkedIn](https://www.linkedin.com/in/hung-mao-chen-a0850814b/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Introduction to Projects
+| Type        | Project           | Description  |
+| ------------- |:-------------:| -----:|
+| Algorithm-based        | [algorithm](https://github.com/shinmao/algorithm)      | OJ + Algo-implementation |
+| Algorithm-based        | [ip_cryptAuthAll](https://github.com/shinmao/ip_cryptAuthAll)      |   Socket authentication |
