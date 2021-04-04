@@ -1,11 +1,26 @@
 <h1 align="center">Hi 👋, This is Rafael</h1>
-<h3 align="center">A passionate learner for Algorithm</h3>
+<h3 align="center">A passionate learner for Cyber Security</h3>
+
+- 🎏 [Resume](https://github.com/shinmao/Resume/blob/main/Rafael_s_new_resume.pdf)
 
 - 📝 I regulary write articles on [http://blog.1pwnch.com](http://blog.1pwnch.com)
 
 - Enjoy my videos on [Youtube channel](https://youtube.com/channel/UC9jW5yQu-TsS2NYP0Ya2gIg)  
 
-- 📫 How to reach me **shinmaox2016@gmail.com**
+- 📫 How to reach me **shinmaox2016@gmail.com / hchen28@masonlive.gmu.edu**
+
+<p align="left">
+<h3 align="left">Research field</h3>
+<h4>Binary Analysis</h4>
+<ul>
+  <li>Security Program Analysis based on Symbolc Execution</li>
+</ul>
+<h4>Learning Recommendation System for Algo & DS</h4>
+<ul>
+  <li>Recommendation System would build up dynamic learning path for individuals based on Knowledge graph for Algo & DS</li>
+  <li>Contact me if you are interested</li>
+</ul>
+</p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
