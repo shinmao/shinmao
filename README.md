@@ -13,7 +13,7 @@
 <h3 align="left">Research field</h3>
 <h4>Binary Analysis</h4>
 <ul>
-  <li>Security Program Analysis based on Symbolc Execution</li>
+  <li>Automatic Exploit Generation</li>
 </ul>
 <h4>Learning Recommendation System for Algo & DS</h4>
 <ul>
