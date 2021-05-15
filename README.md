@@ -7,7 +7,7 @@
 
 - Enjoy my videos on [Youtube channel](https://youtube.com/channel/UC9jW5yQu-TsS2NYP0Ya2gIg)  
 
-- 📫 How to reach me **shinmaox2016@gmail.com / hchen28@masonlive.gmu.edu**
+- 📫 How to reach me **shinmaox2016@gmail.com / hchen28@gmu.edu**
 
 <p align="left">
 <h3 align="left">Research field</h3>
