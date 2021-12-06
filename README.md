@@ -3,17 +3,21 @@
 
 - 🎏 [Resume](https://github.com/shinmao/Resume/blob/main/Rafael_s_new_resume.pdf)
 
-- 📝 I regulary write articles on [http://blog.1pwnch.com](http://blog.1pwnch.com)
+- 📝 I write articles on [http://blog.1pwnch.com](http://blog.1pwnch.com)
 
-- Enjoy my videos on [Youtube channel](https://youtube.com/channel/UC9jW5yQu-TsS2NYP0Ya2gIg)  
+- 🚩 Capture the Flag with [K3RN3L4RMY](https://ctftime.org/team/143202/#.Ya2acOymQB0.link)
 
-- 📫 How to reach me **shinmaox2016@gmail.com / hchen28@gmu.edu**
+- 📹 Enjoy my videos on [Youtube channel](https://youtube.com/channel/UC9jW5yQu-TsS2NYP0Ya2gIg)  
+
+- 📫 How to reach me **hchen28@gmu.edu**
 
 <p align="left">
-<h3 align="left">Research field</h3>
-<h4>Binary Analysis</h4>
+<h3 align="left">Research interest</h3>
+<h4>Binary stuff</h4>
 <ul>
-  <li>Software Security</li>
+  <li>Automatic Program Repair (Binary Instrumentation)</li>
+  <li>Binary Exploitation</li>
+  <li>System Security</li>
 </ul>
 <h4>Learning Recommendation System for Algo & DS</h4>
 <ul>
