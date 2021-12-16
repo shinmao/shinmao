@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Rafael</h1>
 <h3 align="center">A passionate learner for Cyber Security</h3>
 
-- 🎏 [Resume](https://github.com/shinmao/Resume/blob/main/Rafael_s_new_resume.pdf)
+- 🎏 [Resume](https://github.com/shinmao/Resume/blob/main/Rafael_resume.pdf)
 
 - 📝 I write articles on [http://blog.1pwnch.com](http://blog.1pwnch.com)
 
