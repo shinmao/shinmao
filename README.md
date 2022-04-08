@@ -15,7 +15,7 @@
 <h3 align="left">Research interest</h3>
 <h4>Browser stuff</h4>
 <ul>
-  <li>Chrome </li>
+  <li>Chrome security</li>
 </ul>
 <h4>Binary stuff</h4>
 <ul>
