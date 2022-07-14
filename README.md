@@ -7,25 +7,14 @@
 
 - 🚩 Capture the Flag with [K3RN3L4RMY](https://ctftime.org/team/143202/#.Ya2acOymQB0.link)
 
-- 📹 Enjoy my videos on [Youtube channel](https://youtube.com/channel/UC9jW5yQu-TsS2NYP0Ya2gIg)  
-
 - 📫 How to reach me **hchen28@gmu.edu**
 
 <p align="left">
 <h3 align="left">Research interest</h3>
-<h4>Browser stuff</h4>
-<ul>
-  <li>Chrome security</li>
-</ul>
-<h4>Binary stuff</h4>
+<h4>Reverse Engineering</h4>
 <ul>
   <li>Automatic Program Repair</li>
   <li>Binary Exploitation</li>
-</ul>
-<h4>Learning Recommendation System for Algo & DS</h4>
-<ul>
-  <li>Recommendation System would build up dynamic learning path for individuals based on Knowledge graph for Algo & DS</li>
-  <li>Contact me if you are interested</li>
 </ul>
 </p>
 
