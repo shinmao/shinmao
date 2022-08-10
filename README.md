@@ -3,7 +3,7 @@
 
 - 🎏 [Resume](https://github.com/shinmao/Resume/blob/main/Rafael_resume.pdf)
 
-- 📝 I write articles on [http://blog.1pwnch.com](http://blog.1pwnch.com)
+- 📝 I write articles on [https://shinmao.github.io](https://shinmao.github.io)
 
 - 🚩 Capture the Flag with [K3RN3L4RMY](https://ctftime.org/team/143202/#.Ya2acOymQB0.link)
 
@@ -11,10 +11,10 @@
 
 <p align="left">
 <h3 align="left">Research interest</h3>
-<h4>Reverse Engineering</h4>
 <ul>
   <li>Automatic Program Repair</li>
-  <li>Binary Exploitation</li>
+  <li>Program Analysis</li>
+  <li>Rust Security</li>
 </ul>
 </p>
 
