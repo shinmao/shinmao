@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, This is Rafael</h1>
-<h3 align="center">A passionate learner for Cyber Security</h3>
 
 - 🎏 [Resume](https://github.com/shinmao/Resume/blob/main/Rafael_resume.pdf)
 
