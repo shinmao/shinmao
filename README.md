@@ -11,8 +11,8 @@
 <p align="left">
 <h3 align="left">Research interest</h3>
 <ul>
-  <li>Automatic Program Repair</li>
-  <li>Program Analysis</li>
+  <li>Program Analysis on multi-language software</li>
+  <li>Binary Analysis</li>
   <li>Rust Security</li>
 </ul>
 </p>
