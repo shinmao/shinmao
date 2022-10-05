@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, This is Rafael</h1>
 
-- 🎏 [Resume](https://github.com/shinmao/Resume/blob/main/Rafael_resume.pdf)
-
-- 📝 I write articles on [https://shinmao.github.io](https://shinmao.github.io)
-
-- 🚩 Capture the Flag with [K3RN3L4RMY](https://ctftime.org/team/143202/#.Ya2acOymQB0.link)
+- 📝 Want to learn more about me? [https://shinmao.github.io](https://shinmao.github.io)
 
 - 📫 How to reach me **hchen28@gmu.edu**
 
 <p align="left">
 <h3 align="left">Research interest</h3>
 <ul>
-  <li>Program Analysis on multi-language software</li>
-  <li>Binary Analysis</li>
+  <li>Cross-Language Program Analysis</li>
   <li>Rust Security</li>
+  <li>Binary Analysis</li>
 </ul>
 </p>
 
