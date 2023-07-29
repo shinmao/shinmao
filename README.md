@@ -12,7 +12,7 @@
 </ul>
 <h3 align="left">Bug hunting</h3>
 <ul>
-  <li>[Rust](https://github.com/shinmao/Bug-hunting-in-Rust)</li>
+  <li><a href="https://github.com/shinmao/Bug-hunting-in-Rust">Rust</a></li>
 </ul>
 </p>
 
