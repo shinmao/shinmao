@@ -7,9 +7,12 @@
 <p align="left">
 <h3 align="left">Research interest</h3>
 <ul>
-  <li>Cross-Language Program Analysis</li>
   <li>Rust Security</li>
   <li>Binary Analysis</li>
+</ul>
+<h3 align="left">Bug hunting</h3>
+<ul>
+  <li>[Rust](https://github.com/shinmao/Bug-hunting-in-Rust)</li>
 </ul>
 </p>
 
