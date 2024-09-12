@@ -1,18 +1,23 @@
 <h1 align="center">Hi 👋, This is Rafael</h1>
 
-- 📝 Want to learn more about me? [https://shinmao.github.io](https://shinmao.github.io)
+- 📝 Learn more about me? [https://shinmao.github.io](https://shinmao.github.io)
 
-- 📫 How to reach me **hchen28@gmu.edu**
+- 📫 How to reach me **shinmaox2016@gmail.com**
 
 <p align="left">
 <h3 align="left">Research interest</h3>
 <ul>
-  <li>Rust Security</li>
+  <li>Program Analysis and Repair in Rust</li>
   <li>Binary Analysis</li>
+</ul>
+<h3 align="left">Experience</h3>
+<ul>
+  <li>Research Intern at <a href="https://www.certik.com/">@Certik</a></li>
+  <li>Research Intern at <a href="https://github.com/Vector35">@Vector35</a></li>
 </ul>
 <h3 align="left">Bug hunting</h3>
 <ul>
-  <li><a href="https://github.com/shinmao/Bug-hunting-in-Rust">Rust</a></li>
+  <li>Implement static analysis tool to detect hundred of bugs in <a href="https://github.com/shinmao/Bug-hunting-in-Rust">Rust</a></li>
 </ul>
 </p>
 
