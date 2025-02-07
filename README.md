@@ -17,7 +17,7 @@
 </ul>
 <h3 align="left">Bug hunting</h3>
 <ul>
-  <li>Implement static analysis tool to detect hundred of bugs in <a href="https://github.com/shinmao/Bug-hunting-in-Rust">Rust</a></li>
+  <li>Implement static analysis tool and get assigned with multiple CVE/RUSTSEC IDs</li>
 </ul>
 </p>
 
