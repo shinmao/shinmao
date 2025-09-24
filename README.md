@@ -7,17 +7,19 @@
 <p align="left">
 <h3 align="left">Research interest</h3>
 <ul>
-  <li>Program Analysis and Repair in Rust</li>
+  <li>Code Context Engine with LLM</li>
+  <li>Static analysis in Rust</li>
   <li>Binary Analysis</li>
 </ul>
 <h3 align="left">Experience</h3>
 <ul>
-  <li>Research Intern at <a href="https://www.certik.com/">@Certik</a></li>
-  <li>Research Intern at <a href="https://github.com/Vector35">@Vector35</a></li>
+  <li>PhD SWE Intern at Google</li>
+  <li>PhD Security Research Intern at <a href="https://www.certik.com/">@Certik</a></li>
+  <li>SWE Intern at <a href="https://github.com/Vector35">@Vector35</a></li>
 </ul>
-<h3 align="left">Bug hunting</h3>
+<h3 align="left">Publications</h3>
 <ul>
-  <li>Implement static analysis tool and get assigned with multiple CVE/RUSTSEC IDs</li>
+  <li>USENIX Security 2025 - TYPEPULSE: Detecting Type Confusion Bugs in Rust Programs - First author</li>
 </ul>
 </p>
 
