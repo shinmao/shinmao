@@ -9,7 +9,7 @@
 <ul>
   <li>Code Context Engine with LLM</li>
   <li>Static analysis in Rust</li>
-  <li>Binary Analysis</li>
+  <li>Reverse Engineering</li>
 </ul>
 <h3 align="left">Experience</h3>
 <ul>
