@@ -7,12 +7,13 @@
 <p align="left">
 <h3 align="left">Research interest</h3>
 <ul>
-  <li>Code Context Engine with LLM</li>
-  <li>Static analysis in Rust</li>
+  <li>Bug Detection in SoC</li>
+  <li>Bug Detection in Rust</li>
   <li>Reverse Engineering</li>
 </ul>
 <h3 align="left">Experience</h3>
 <ul>
+  <li>SDE at Google (present)</li>
   <li>PhD SWE Intern at Google</li>
   <li>PhD Security Research Intern at <a href="https://www.certik.com/">@Certik</a></li>
   <li>SWE Intern at <a href="https://github.com/Vector35">@Vector35</a></li>
@@ -20,6 +21,7 @@
 <h3 align="left">Publications</h3>
 <ul>
   <li>USENIX Security 2025 - TYPEPULSE: Detecting Type Confusion Bugs in Rust Programs - First author</li>
+  <li>USENIX Security 2026 - CULPA: Universal Detection of Memory-Safety Bugs in Unsafe Rust Through the Lens of Safety Requirements - First author</li>
 </ul>
 </p>
 
